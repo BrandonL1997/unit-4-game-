@@ -10,6 +10,7 @@ body {
 	font-size: 45px;
 	font-family: 'Ultra', serif;
 	color: white;
+	text-align: center;
 }
 
 .firstRow{
@@ -33,10 +34,10 @@ body {
 
 .HP {
 	text-align: center;
-	font-size: 15px;
+	font-size: 25px;
 	font-family: 'Alegreya SC', serif;
 	margin-bottom: 25px;
-	color: white;
+	color:rgb(255, 197, 89);
 }
 
 #images1, #images2, #images3, #images4 {
