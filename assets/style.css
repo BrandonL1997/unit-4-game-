@@ -1,0 +1,75 @@
+body {
+	background-image: url("./images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+
+#RPG {
+	font-size: 45px;
+	font-family: 'Ultra', serif;
+	color: white;
+}
+
+.firstRow{
+	border-style: solid;
+	border-width: 4px;
+	border-color: white;
+	box-sizing: border-box;
+	outline-style: solid;
+	outline-color:limegreen;
+	outline-width: 2px;
+	align-items: center;
+	background-color: white;
+}
+
+.name{
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Alegreya SC', serif;
+	margin-bottom: 25px;
+}
+
+.HP {
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Alegreya SC', serif;
+	margin-bottom: 25px;
+	color: white;
+}
+
+#images1, #images2, #images3, #images4 {
+	width: 75%;
+    height: 75%;
+		
+}
+
+.col-12 {
+	color: white;
+	font-size: 25px;
+	font-family: 'Alegreya SC', serif;
+
+}
+
+.padLeft {
+	padding-left: 20px;
+	padding-top: 3px;
+
+
+}
+
+#picRow {
+	width: 75%;
+
+}
+ #enemies0, #enemies1, #enemies2, #enemies3 {
+	float: left;
+}
+.move {
+	float: left;
+}*/
+
+.float {
+	float: left;
+}
